@@ -7,7 +7,7 @@
 ```
 |英文|	中文|	SQL|	HTTP	|資料分散服務|
 |----|----|-----|--------|-----------|
-|CREATE	|建立|	INSERT|	PUT / POST	WRITE|
+|CREATE	|建立|	INSERT|	PUT / POST|WRITE|
 |READ|	讀取|	SELECT|	GET|	READ / TAKE|
 |UPDATE|	更新|	UPDATE|	PUT / POST / PATCH|WRITE|
 |DELETE|	移除|	DELETE|	DELETE	|DISPOSE|
